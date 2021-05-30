@@ -21,7 +21,7 @@ For the Scikit-learn pipeline:
 
 The hyperparameter sampler we used is Random Sampling. The benefit of this sampler is that it is less resource intensive than the other two options but can often achieve similar quality.
 
-The early stopping policy we chose is the Bandit Policy. The benefit of a early stopping policy is that it can stop the algorithm from wasting computation resources.  
+The early stopping policy we chose is the Bandit Policy. The benefit of an early stopping policy is that it can stop the algorithm from wasting computation resources.  
 
 ## AutoML
 The AutoML run generated a VotingEnsemble model.
@@ -34,7 +34,6 @@ The primary reason of the difference is that AutoML was allowed to choose from a
 Although, one must note that in this case the difference is very small.
 
 ## Future work
-**What are some areas of improvement for future experiments? Why might these improvements help the model?**
 What we could test in future experiments are:
 - Allow greater range in the hyperdrive hyperparameter sampling range.
 - Allow longer durations in both hyperdrive runs and AutoML runs.
