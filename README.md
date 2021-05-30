@@ -44,4 +44,4 @@ The reasons are:
 - AutoML may have terminated early because it ran out of time.
 
 ## Proof of cluster clean up
-![alt text](sss/cc_delete.jpg "Screenshot of compute cluster marked for deletion")
+![alt text](sss/cc_del.jpg "Screenshot of compute cluster marked for deletion")
