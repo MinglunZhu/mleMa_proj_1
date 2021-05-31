@@ -44,3 +44,7 @@ The reasons are:
 
 ## Proof of cluster clean up
 ![Screenshot of compute cluster marked for deletion](sss/cc_del.JPG "Screenshot of compute cluster marked for deletion")
+
+## License
+
+[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
